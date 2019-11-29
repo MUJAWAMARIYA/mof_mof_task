@@ -7,6 +7,7 @@ class Property < ApplicationRecord
                 errors.add(:how_many_minutes_walk, 'not perfect')
             end
         end
+    
     end
   end
 
